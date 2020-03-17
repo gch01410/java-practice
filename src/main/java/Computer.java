@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * 사용자가 맞추어야 할 컴퓨터의 난수를 생성하는 클래
+ * 사용자가 맞추어야 할 컴퓨터의 난수를 생성하는 클래스.
  */
 public class Computer {
 
