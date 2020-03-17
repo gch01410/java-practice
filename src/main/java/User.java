@@ -31,8 +31,6 @@ public class User {
                 System.out.println("형식에 맞지 않는 입력입니다. 중복되지 않는 세자리 정수를 입력해야합니다. ");
             }
         }
-
-
     }
 
     /* 유저가 입력한 숫자가 3자리 숫자인지 */
@@ -65,5 +63,4 @@ public class User {
         }
         return true;
     }
-
 }
