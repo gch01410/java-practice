@@ -11,7 +11,7 @@ public class Computer {
     Random random = new Random();
 
     /* 확정된 컴퓨터의 수가 담길 변수 */
-    String computerNumber = "";
+    protected String computerNumber = "";
 
     public Computer() {
         while (computerNumber.length() < NUMBER_LENGTH) {

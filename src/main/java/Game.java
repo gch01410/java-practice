@@ -37,7 +37,7 @@ public class Game {
             user = new User();
             while (!gameResult) {
                 user.selectNumber();
-                strikeAndBall();
+                checkStrikeAndBall();
             }
 
             /* 정답을 맞춘 후 재게임 또는 종료 선택을 위한 메소드 호출 */
@@ -49,7 +49,7 @@ public class Game {
     }
 
     /* 스트라이크와 볼 수를 출력 */
-    private void strikeAndBall() {
+    private void checkStrikeAndBall() {
         int strike = 0;
         int ball = 0;
 

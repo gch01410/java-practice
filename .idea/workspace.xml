@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,30 +121,30 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="808" y="418" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.972@0.23.1680.972" timestamp="1584436066780" />
-    <state width="1358" height="259" key="GridCell.Tab.0.bottom" timestamp="1584436702550">
+    <state width="1358" height="259" key="GridCell.Tab.0.bottom" timestamp="1584523625055">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="259" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1584436702550" />
+    <state width="1358" height="259" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1584523625055" />
     <state width="1358" height="259" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1584436319499" />
-    <state width="1358" height="259" key="GridCell.Tab.0.center" timestamp="1584436702549">
+    <state width="1358" height="259" key="GridCell.Tab.0.center" timestamp="1584523625054">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="259" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1584436702549" />
+    <state width="1358" height="259" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1584523625054" />
     <state width="1358" height="259" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1584436319498" />
-    <state width="1358" height="259" key="GridCell.Tab.0.left" timestamp="1584436702549">
+    <state width="1358" height="259" key="GridCell.Tab.0.left" timestamp="1584523625054">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="259" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1584436702549" />
+    <state width="1358" height="259" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1584523625054" />
     <state width="1358" height="259" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1584436319497" />
-    <state width="1358" height="259" key="GridCell.Tab.0.right" timestamp="1584436702550">
+    <state width="1358" height="259" key="GridCell.Tab.0.right" timestamp="1584523625055">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state width="1358" height="259" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1584436702549" />
+    <state width="1358" height="259" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1584523625055" />
     <state width="1358" height="259" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1584436319498" />
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584452227803">
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584522672867">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.971@0.23.1680.971" timestamp="1584452227803" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.971@0.23.1680.971" timestamp="1584522672867" />
     <state x="964" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1584452761826">
       <screen x="0" y="23" width="1680" height="971" />
     </state>
